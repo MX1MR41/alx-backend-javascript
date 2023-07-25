@@ -1,0 +1,6 @@
+- https://www.w3schools.com/js/js_es6.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+- https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4?gi=e548c2149d8b
